@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+div > p {
+	border:solid, 2px;
+	border-color:#FABADA;
+	}
+
+.importante {
+	color:#003E9F;}
+
+p.importante ~ p {
+	color:red; 
+}
